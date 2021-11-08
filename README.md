@@ -1,1 +1,1 @@
-# Using Build Pattern and Multi-stage Builds with Docker
+# sample NodeJS app using multi-stage build
